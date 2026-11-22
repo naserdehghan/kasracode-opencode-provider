@@ -1,0 +1,8 @@
+{
+  "name": "opencode-kasracode",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": "./index.js",
+  "files": ["index.js", "catalog.js"],
+  "dependencies": { "@opencode/plugin": "2.3.2" }
+}
